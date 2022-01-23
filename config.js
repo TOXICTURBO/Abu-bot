@@ -1,5 +1,5 @@
-/* Copyright (C) 2021 KINGS AS
-re-edited by SPlRlT-YT
+/* Copyright (C) 2021 ABU
+re-edited by ABU-YT
 */
 
 const { Sequelize } = require('sequelize');
@@ -17,16 +17,16 @@ DEBUG = process.env.DEBUG === undefined ? false : convertToBool(process.env.DEBU
 module.exports = {
     VERSION: 'v1.0.0 Global Stable',
     CHANNEL: 'https://t.me/remasterplugin',
-    SESSION: process.env.CONNECTION_CODE === undefined ? '' : process.env.CONNECTION_CODE,
+    SESSION: process.env.ABUSER_CODE === undefined ? '' : process.env.ABUSER_CODE,
     ANTİLİNK: process.env.ANTİ_LİNK === undefined ? 'false' : process.env.ANTİ_LİNK,
     AUTOBİO: process.env.AUTO_BİO === undefined ? 'false' : process.env.AUTO_BİO,
-    AFN: process.env.ALL_CAPTION === undefined ? 'ᴍᴀᴅᴇ ʙʏ sᴘɪʀɪᴛ ʙᴏᴛ࿐' : process.env.ALL_CAPTION,
+    AFN: process.env.ALL_CAPTION === undefined ? 'ᴍᴀᴅᴇ ʙʏ ᴀʙᴜ ʙᴏᴛ࿐' : process.env.ALL_CAPTION,
     GANSTYLE: process.env.GAN_IMAGE === undefined ? 'https://i.hizliresim.com/loUtAb.jpg' : process.env.GAN_IMAGE,
     LANG: process.env.LANGUAGE === undefined ? 'TR' : process.env.LANGUAGE.toUpperCase(),
     ALIVEMSG: process.env.ALIVE_MESSAGE === undefined ? 'default' : process.env.ALIVE_MESSAGE,
     KICKMEMSG: process.env.KICKME_MESSAGE === undefined ? 'default' : process.env.KICKME_MESSAGE,
     AUTOSTICKER: process.env.AUTO_STICKER === undefined ? 'true' : process.env.AUTO_STICKER,
-    PLK: process.env.OWNER_NAME === undefined ? '𝐒𝐀𝐑𝐀𝐓𝐇' : process.env.OWNER_NAME,
+    PLK: process.env.OWNER_NAME === undefined ? '𝑨𝑩𝑼𝑺𝑬𝑹' : process.env.OWNER_NAME,
     FULLEVA: process.env.FULL_EVA === undefined ? 'false' : process.env.FULL_EVA,
     BOT_PRESENCE: process.env.BOT_PRESENCE === undefined ? 'online' : process.env.BOT_PRESENCE,
     BLOCKCHAT: process.env.BLOCK_CHAT === undefined ? false : process.env.BLOCK_CHAT,
@@ -46,9 +46,9 @@ module.exports = {
     PROMOTEMSG: process.env.PROMOTE_MESSAGE === undefined ? 'default' : process.env.PROMOTE_MESSAGE,
     DEMOTEMSG: process.env.DEMOTE_MESSAGE === undefined ? 'default' : process.env.DEMOTE_MESSAGE,
     BANMSG: process.env.BAN_MESSAGE === undefined ? 'default' : process.env.BAN_MESSAGE,
-    BOTSK: process.env.BOT_NAME === undefined ? 'ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝sᴘɪʀɪᴛ ʙᴏᴛ࿐' : process.env.BOT_NAME,
-    LOGOSK: process.env.ALL_IMG === undefined ? 'https://i.imgur.com/EDaV4za.jpeg' : process.env.ALL_IMG,
-    SLINK: process.env.SOCIAL_MEDIA === undefined ? 'https://www.instagram.com/spirit_ser' : process.env.SOCIAL_MEDIA,
+    BOTSK: process.env.BOT_NAME === undefined ? 'ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝ᴀʙᴜ ʙᴏᴛ࿐' : process.env.BOT_NAME,
+    LOGOSK: process.env.ALL_IMG === undefined ? 'https://i.ibb.co/D1Fgtqj/Abuser.jpg' : process.env.ALL_IMG,
+    SLINK: process.env.SOCIAL_MEDIA === undefined ? 'https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk' : process.env.SOCIAL_MEDIA,
     TAGPLK: process.env.TAG_HEADER === undefined ? '*Attention please 📢*' : process.env.TAG_HEADER,
     AFKMSG: process.env.AFK_MESSAGE === undefined ? 'default' : process.env.AFK_MESSAGE,
     HANDLERS: process.env.HANDLERS === undefined ? '^[.!;]' : process.env.HANDLERS,
