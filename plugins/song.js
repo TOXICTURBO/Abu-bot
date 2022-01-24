@@ -1,22 +1,3 @@
-Skip to content
-Ajx-Abu
-/
-Abu-bot
-Public
-Code
-Issues
-Pull requests
-1
-Projects
-Wiki
-Security
-Insights
-Settings
-Abu-bot/plugins/song.js
-@SPlRlT-YT
-SPlRlT-YT Update song.js
- 4 contributors
-56 lines (52 sloc)  4.6 KB
 const Asena = require('../events');
 const { MessageType, MessageOptions, Mimetype } = require('@adiwajshing/baileys');
 const fs = require('fs');
