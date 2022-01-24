@@ -7,22 +7,24 @@ const Lang = Language.getString('wallpaper');
 
 Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the bot"}, (async (message, match) => {
 
-    var skl = await axios.get("https://i.imgur.com/aO8uCtQ.jpg", { responseType: 'arraybuffer' })
+    var skl = await axios.get("https://i.ibb.co/mcVjXBN/IMG-20220120-WA0089.jpg", { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*spirit  bot created by Spirit*
-ᴄʀᴇᴀᴛᴏʀ ɴᴜᴍʙᴇʀ: wa.me/16052772640
+    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*✌︎➪𝑨𝑩𝑼 𝑺𝑬𝑹 𝑩𝑶𝑻☜︎︎︎✌︎*
+ᴄʀᴇᴀᴛᴏʀ ɴᴜᴍʙᴇʀ: wa.me/917025994178
 
-sᴘɪʀɪᴛ ʙᴏᴛ ɢʀᴏᴜᴘ: https://chat.whatsapp.com/F3adhxvYpd3KzVptzDxhC4
+Tʜɪs ʙᴏᴛ Oᴡɴᴇʀ Nᴀᴍᴇ : ❤️🥰 ✌︎Aʙᴜ Sᴇʀ Bᴏᴛ ➪ Aʙᴜ»:-Jᴀsɪʟ ᴍᴜʜᴀᴍᴍᴇᴅ
 
-ɢɪᴛʜᴜʙ ʟɪɴᴋ:    https://github.com/SPlRlT-YT/spirit-bot
+Aʙᴜ ʙᴏᴛ ɢʀᴏᴜᴘ: https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk
 
-ᴀᴜᴅɪᴏ ᴄᴏᴍᴍᴀᴅᴇ :   https://github.com/SPlRlT-YT/spirit-bot/tree/master/uploads
+Gɪᴛʜᴜʙ ʟɪɴᴋ:    https://github.com/Ajx-Abu/Abu-bot
 
-sᴛɪᴄᴋᴇʀ ᴄᴏᴍᴍᴀᴅᴇ: https://github.com/SPlRlT-YT/spirit-bot/tree/master/sticker
+Aᴜᴅɪᴏ ᴄᴏᴍᴍᴀᴅᴇ :   https://github.com/Ajx-Abu/Abu-bot/tree/master/uploads
 
-ᴄʜᴀɴɴᴇɪᴄʜ : https://youtube.com/channel/UCBv1Z1zkOmdGeWU2QRdYBnA 
+Sᴛɪᴄᴋᴇʀ ᴄᴏᴍᴍᴀᴅᴇ: https://github.com/Ajx-Abu/Abu-bot/tree/master/sticker
 
-💝sᴘɪʀɪᴛ ʙᴏᴛ💝
+Cʜᴀɴɴᴇʟ : https://youtube.com/channel/UCvWLxIw5MQvbD7It9A5-3Ow 
+
+💝Aʙᴜ Sᴇʀ Bᴏᴛ Cʀᴇᴀᴛᴇᴅ Bʏ Aʙᴜ Sᴇʀ -Jᴀsɪʟ ᴍᴜʜᴀᴍᴍᴇᴅ💝
 `}) 
 
 }));
