@@ -22,36 +22,36 @@ let baseURI = '/apps/' + config.HEROKU.APP_NAME;
         l_dsc = 'Antilink aracını etkinleştirir.'
         alr_on = 'Antilink halihazırda açık!'
         alr_off = 'Antilink halihazırda kapalı!'
-        BGM_on = 'bgm option turned on!'
-        BGM_off = 'bgm option turned off'
+        BGM_on = 'Aʙᴜ Sᴇʀ Bɢᴍ Oᴘᴛɪᴏɴ Oɴ Aᴋɪᴛᴜɴᴅ!'
+        BGM_off = 'Aʙᴜ Sᴇʀ Bɢᴍ Oᴘᴛɪᴏɴ Oғғ Aᴋɪᴛᴜɴᴅ'
     }
     if (config.LANG == 'EN') {
         l_dsc = 'turn on and turn of bgm. -bot owner command'
         alr_on = 'Antilink is already open!'
         alr_off = 'Antilink is currently closed!'
-        BGM_on = 'bgm option turned on!'
-        BGM_off = 'bgm option turned off'
+        BGM_on = 'Aʙᴜ Sᴇʀ Bɢᴍ Oᴘᴛɪᴏɴ Oɴ Aᴋɪᴛᴜɴᴅ!'
+        BGM_off = 'Aʙᴜ Sᴇʀ Bɢᴍ Oᴘᴛɪᴏɴ Oғғ Aᴋɪᴛᴜɴᴅ'
     }
     if (config.LANG == 'AZ') {
         l_dsc = 'Antilink alətini aktivləşdirir.'
         alr_on = 'Antilink hazırda açıqdır!'
         alr_off = 'Antilink hazırda bağlıdır!'
-        BGM_on = '*bgm option turned on*'
-        BGM_off = '*bgm option turned off*'
+        BGM_on = '*Aʙᴜ Sᴇʀ Bɢᴍ Oᴘᴛɪᴏɴ Oɴ Aᴋɪᴛᴜɴᴅ*'
+        BGM_off = '*Aʙᴜ Sᴇʀ Bɢᴍ Oᴘᴛɪᴏɴ Oғғ Aᴋɪᴛᴜɴᴅ*'
     }
     if (config.LANG == 'HI') {
         l_dsc = 'एंटीलिंक टूल को सक्रिय करता है।'
         alr_on = 'एंटीलिंक पहले से ही खुला है!'
         alr_off = 'एंटीलिंक वर्तमान में बंद है!'
-        BGM_on = 'bgm option turndा!'
-        BGM_off = 'bgm option turned off'
+        BGM_on = 'Aʙᴜ Sᴇʀ Bɢᴍ Oᴘᴛɪᴏɴ Oɴ Aᴋɪᴛᴜɴᴅा!'
+        BGM_off = 'Aʙᴜ Sᴇʀ Bɢᴍ Oᴘᴛɪᴏɴ Oғғ Aᴋɪᴛᴜɴᴅ'
     }
     if (config.LANG == 'ML') {
         l_dsc = 'ആന്റിലിങ്ക് ഉപകരണം സജീവമാക്കുന്നു.'
         alr_on = 'ആന്റിലിങ്ക് ഇതിനകം തുറന്നു!'
         alr_off = 'ആന്റിലിങ്ക് നിലവിൽ അടച്ചിരിക്കുന്നു!'
-        BGM_on = 'bgm option turned on'
-        BGM_off = 'bgm option turned off'
+        BGM_on = 'Aʙᴜ Sᴇʀ Bɢᴍ Oᴘᴛɪᴏɴ Oɴ Aᴋɪᴛᴜɴᴅ'
+        BGM_off = 'Aʙᴜ Sᴇʀ Bɢᴍ Oᴘᴛɪᴏɴ Oғғ Aᴋɪᴛᴜɴᴅ'
     }
     if (config.LANG == 'PT') {
         l_dsc = 'Ativa a ferramenta Antilink.'
