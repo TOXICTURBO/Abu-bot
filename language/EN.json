@@ -181,13 +181,13 @@
             "CURRENCY_ERROR": "```Syntax error! Example: .currency 1 TRY USD```",
             "INVALID_CURRENCY": "```Foreign currency transaction failed. You wrote wrong currency!```",
             "UNKNOWN_ERROR": "```An error occurred. Foreign currency transaction failed!```",
-            "TTS_DESC": "It converts text to sound.",
+            "TTS_DESC": "It Aʙᴜ Converts text to sound.",
             "TTS_ERROR": "```Error, Speech example of your sentence couldn't be made!```",
             "SONG_DESC": "Uploads the song you wrote.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song Naadan Vibe```",
             "NO_RESULT": "*I couldn't find anything :(*",
             "DOWNLOADING_SONG": "\n*Song Thapatte 💝🧚‍♂️*\n",
-            "UPLOADING_SONG": "\n*Spirit Uploading 📲 Use 🎧*\n",
+            "UPLOADING_SONG": "\n*Aʙᴜ Uploading 📲 Use 🎧*\n",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
             "DOWNLOADING_VIDEO": "```Downloading 🎥...```",
@@ -202,7 +202,7 @@
             "IMG": "```Uploading photo``` *{}* ```number``` *{}*"
         },
         "sticker": {
-            "STICKER_DESC": "It converts your replied photo or video to sticker.",
+            "STICKER_DESC": "It Aʙᴜ Converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
             "DOWNLOADING": "```Ippam Seriyakithra 🤠```"
         },
@@ -216,14 +216,14 @@
         },
         "updater": {
             "UPDATER_DESC": "Checks the update.",
-            "UPDATE": "*spirit bot completely up-to-date💝*",
-            "NEW_UPDATE": "*spirit bot Update Available*\n\n *type .update now before updating.🙂* \n *Ask support group and update☺️* ```https://chat.whatsapp.com/F3adhxvYpd3KzVptzDxhC4 \n\nChanges:\n```",
+            "UPDATE": "*Aʙᴜ sᴇʀ ʙᴏᴛ Cᴏᴍᴘʟᴇᴛᴇʟʏ Uᴘ-Tᴏ-Dᴀᴛᴇ💝*",
+            "NEW_UPDATE": "*Aʙᴜ sᴇʀ Bᴏᴛ Uᴘᴅᴀᴛᴇ Aᴠᴀɪʟᴀʙʟᴇ *\n\n *Tʏᴘᴇ .update now before updating.🙂* \n *Asᴋ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ Aɴᴅ Uᴘᴅᴀᴛᴇ☺️* ```https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk \n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "```Updating..🧚‍♂️```",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
-            "UPDATED": "*spirit bot UPDATED✅*",
-            "UPDATED_LOCAL": "*✅ Successfully Updated spirit bot😍*",
-            "AFTER_UPDATE": "*spirit bot Restarting😎*"
+            "UPDATED": "*Aʙᴜ bot UPDATED✅*",
+            "UPDATED_LOCAL": "*✅ Successfully Updated Aʙᴜ bot😍*",
+            "AFTER_UPDATE": "*Aʙᴜ bot Restarting😎*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
@@ -313,12 +313,12 @@
             "URL": "Shorten the long link."
         },
         "conventer": {
-            "MP4TOAUDİO_DESC": "Converts video to sound.",
+            "MP4TOAUDİO_DESC": "Aʙᴜ Converts video to sound.",
             "MP4TOAUDİO_NEEDREPLY": "*You Must Reply to a Video!*",
-            "MP4TOAUDİO": "```Converting Video to Audio..```",
-            "STİCKER_DESC": "Converts the sticker to a photo.",
+            "MP4TOAUDİO": "```Aʙᴜ converting Video to Audio..```",
+            "STİCKER_DESC": "Aʙᴜ Converts the sticker to a photo.",
             "STİCKER_NEEDREPLY": "*Photokk Reply ayitt ayakk*",
-            "STİCKER": "```Converting...```",
+            "STİCKER": "```Aʙᴜ converting...```",
             "XMEDİA_DESC": "It is a plugin with more than 25 media tools.",
             "T_FALSE": "```❌ Incorrect Blend Effect Entered!```\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
             "T_NOT": "```💭 You Need To Enter Any Blend Effects!\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
@@ -410,9 +410,9 @@
             "MUTE_OPEN": "*Allright Boss! Chat Has Been Opened!*"
         },
         "unvoice": {
-            "UV_DESC": "Converts audio to sound recording.",
+            "UV_DESC": "Aʙᴜ Converts audio to sound recording.",
             "UV_REPLY": "*You Must Reply to an Audio File!*",
-            "UV_PROC": "```Converting to Sound Recording..```"
+            "UV_PROC": "```Aʙᴜ converting to Sound Recording..```"
         },
         "ffmpeg": {
             "FF_DESC": "Applies the desired ffmpeg filter to the video.\n⌨️ Example: .ffmpeg fade=in:0:30",
@@ -440,11 +440,11 @@
             "URL": "*You must enter the image URL!*\n*Example:* https://i.hizliresim.com/nrg50b.jpg"
         },
         "ttp": {
-            "TTP_DESC": "Converts text to plain painting.",
+            "TTP_DESC": "Aʙᴜ Converts text to plain painting.",
             "ATTP_DESC": "Adds rainbow effect to the text as a sticker.",
             "NEED_WORD": "*You must enter words!*",
             "ANIME_DESC": "It writes the text inside the banner the anime girl is holding",
-            "TRUMP_DESC": "Converts the text to Trump's tweet.",
+            "TRUMP_DESC": "Aʙᴜ Converts the text to Trump's tweet.",
             "CHANGE_DESC": "Turns the text into the change my mind poster."
        },
        "anime": { 
@@ -460,7 +460,7 @@
         "voicy": {
             "NEED_REPLY": "```Please reply to any message!```",
             "ONLY_AUDIO":"```Only audio file is accepted.```",
-            "USAGE": "It converts audio to text.",
+            "USAGE": "It Aʙᴜ Converts audio to text.",
             "TEXT": "*Hey! I listened secretly to this voice and heard those!:* \n\n"
         },
         "notes": {
@@ -491,7 +491,7 @@
         },
         "qrgenerator": {
              "TEXT": "You must enter text!",
-            "QR_DESC": "Converts the given text into a qr code image."
+            "QR_DESC": "Aʙᴜ Converts the given text into a qr code image."
             
         },
         "whois": {
