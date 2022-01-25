@@ -75,6 +75,11 @@
             "required": true,
             "value": "false"
         },
+        "BAD_WORDS": {
+            "description": "enter the word you dont allow in your group ",
+            "required": true,
+            "value": "false"
+        },
         "HANDLERS": {
             "description": "Komutlar için. For commands.",
             "required": true,
