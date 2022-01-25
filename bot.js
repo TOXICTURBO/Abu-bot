@@ -87,30 +87,25 @@ async function whatsAsena () {
         conn.loadAuthInfo(Session.deCrypt(StrSes_Db[0].dataValues.value));
     }
 
-    conn.on ('credentials-updated', async () => {
-        console.log(
-            chalk.blueBright.italic('✅ Login information updated!')
-        );
-
-        const authInfo = conn.base64EncodedAuthInfo();
-        if (StrSes_Db.length < 1) {
-            await WhatsAsenaDB.create({ info: "StringSession", value: Session.createStringSession(authInfo) });
-        } else {
-            await StrSes_Db[0].update({ value: Session.createStringSession(authInfo) });
-        }
-    })    
-
-    conn.on('connecting', async () => {
-        console.log(`${chalk.green.bold('Whats')}${chalk.blue.bold('Asena')}
-${chalk.white.bold('Version:')} ${chalk.red.bold(config.VERSION)}
-${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
-    });
-    
-
     conn.on('open', async () => {
         console.log(
             chalk.green.bold('✅ Login successful!')
         );
+        console.log(
+            chalk.blueBright.italic('Confirming password...')
+        );
+        if (config.AFPLK == 'abuser' || config.AFPLK == 'ABU' || config.AFPLK == 'vava' || config.AFPLK == 'Abuser') {
+        //thanks to afnanplk
+        console.log(
+            chalk.green.bold('thanks for watching -key cofirmed-')
+        );
+         }
+         else if (config.AFPLK !== 'abuser' || config.AFPLK !== 'ABU' || config.AFPLK !== 'vava' || config.AFPLK !== 'Abuser') {
+         console.log(
+            chalk.red.bold('make sure you have typed the correct password'));
+         throw new Error("Password Error ⚠⚠ ");         
+         return; //created by afnanplk
+         }
 
         console.log(
             chalk.blueBright.italic('⬇️ Installing external plugins...')
