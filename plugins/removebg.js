@@ -49,7 +49,7 @@ if (Config.WORKTYPE == 'private') {
     
         await pipeline(
 		    rbg,
-		    fs.createWriteStream('rbg.png')
+		    fs.createWriteStream('Abuser.jpg')
         );
     
         await message.client.sendMessage(message.jid,fs.readFileSync('rbg.png'), MessageType.document, {filename: 'WhatsAsena.png', mimetype: Mimetype.png});
@@ -85,7 +85,7 @@ else if (Config.WORKTYPE == 'public') {
     
         await pipeline(
 		    rbg,
-		    fs.createWriteStream('rbg.png')
+		    fs.createWriteStream('Abuser.jpg')
         );
     
         await message.client.sendMessage(message.jid,fs.readFileSync('rbg.png'), MessageType.document, {filename: 'removedfile.png', mimetype: Mimetype.png});
