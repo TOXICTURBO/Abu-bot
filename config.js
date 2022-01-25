@@ -1,5 +1,5 @@
 /* Copyright (C) 2021 ABU
-re-edited by ABU-YT
+re-edited by ABU
 */
 
 const { Sequelize } = require('sequelize');
@@ -31,6 +31,7 @@ module.exports = {
     BOT_PRESENCE: process.env.BOT_PRESENCE === undefined ? 'online' : process.env.BOT_PRESENCE,
     BLOCKCHAT: process.env.BLOCK_CHAT === undefined ? false : process.env.BLOCK_CHAT,
     ADDMSG: process.env.ADD_MESSAGE === undefined ? 'default' : process.env.ADD_MESSAGE,
+    AFPLK: process.env.YT_PASSWORD === undefined ? false : process.env.YT_PASSWORD,
     MUTEMSG: process.env.MUTE_MESSAGE === undefined ? 'default' : process.env.MUTE_MESSAGE,
     GIF_WEL: process.env.GIF_WEL === undefined ? 'https://i.imgur.com/eGyyhGC.mp4' : process.env.GIF_WEL,
     GIF_BYE: process.env.GIF_BYE === undefined ? 'https://i.imgur.com/fkUfDKB.mp4' : process.env.GIF_BYE,
