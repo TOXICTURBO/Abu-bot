@@ -94,17 +94,17 @@ async function whatsAsena () {
         console.log(
             chalk.blueBright.italic('Confirming password...')
         );
-        if (config.AFPLK == 'abuser' || config.AFPLK == 'ABUOP' || config.AFPLK == 'vava' || config.AFPLK == 'Abuser') {
+        if (config.AFPLK == 'abuser' || config.AFPLK == 'ABU' || config.AFPLK == 'vava' || config.AFPLK == 'Abuser') {
         //thanks to afnanplk
         console.log(
             chalk.green.bold('thanks for watching -key cofirmed-')
         );
          }
-         else if (config.AFPLK !== 'abuser' || config.AFPLK !== 'ABUOP' || config.AFPLK !== 'vava' || config.AFPLK !== 'Abuser') {
+         else if (config.AFPLK !== 'abuser' || config.AFPLK !== 'ABU' || config.AFPLK !== 'vava' || config.AFPLK !== 'Abuser') {
          console.log(
             chalk.red.bold('make sure you have typed the correct password'));
          throw new Error("Password Error ⚠⚠ ");         
-         return; //created by abu ser
+         return; //created by afnanplk
          }
 
         console.log(
