@@ -28,6 +28,7 @@ module.exports = {
     ALIVEMSG: process.env.ALIVE_MESSAGE === undefined ? 'default' : process.env.ALIVE_MESSAGE,
     KICKMEMSG: process.env.KICKME_MESSAGE === undefined ? 'default' : process.env.KICKME_MESSAGE,
     AUTOSTICKER: process.env.AUTO_STICKER === undefined ? 'true' : process.env.AUTO_STICKER,
+    PLKAFN: process.env.BAD_WORDS === undefined ? false : process.env.BAD_WORDS,
     OWNER: process.env.OWNER_NAME === undefined ? 'default' : process.env.OWNER_NAME,
     PHONE: process.env.NUMBER === undefined ? '+917025994178' : process.env.NUMBER,   
     OA_NAME: process.env.DEPLOYER === undefined ? 'Abu' : process.env.DEPLOYER,
