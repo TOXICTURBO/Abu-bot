@@ -87,4 +87,5 @@ var i = Math.floor(31*Math.random())
 
 await message.sendMessage(r_text[i]);
 
- }
+ }));
+}
