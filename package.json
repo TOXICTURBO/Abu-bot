@@ -2,7 +2,7 @@
   "name": "Abu-Bot",
   "version": "1.0.0",
   "description": "Abu whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
-  "main": "./spirit/bot.js",
+  "main": "./Abu/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
