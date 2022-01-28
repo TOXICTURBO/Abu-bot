@@ -10,7 +10,7 @@ if (Config.WORKTYPE == 'private') {
 
     var r_text = new Array ();
     
-    r_text[1] = "*╔══■□💙ᴀʙᴜ-sᴇʀ💙■□══╗*\n           \n*⚜═ᴀʙᴜ-sᴇʀ═⚜*\n\n*𝕆𝕨𝕟𝕖𝕣 Aᴍʀᴜ-Aᴍʀᴜᴛʜᴇsʜ - https://api.whatsapp.com/send?phone=+917025994178&text=Please%20add%20Aʙᴜsᴇʀ%20bot%20ɢʀᴏᴜᴘ%20💙*\n*            *\n*╚══■□💙ᴀʙᴜ-sᴇʀ💙■□══╝*\n\n*▷Creator: Aʙᴜ-Jᴀsɪʟ ✝︎*"
+    r_text[1] = "*╔══■□💙Toxic Bot💙■□══╗*\n           \n*⚜═Toxic Bot═⚜*\n\n*𝕆𝕨𝕟𝕖𝕣 Turbo - https://api.whatsapp.com/send?phone=+916380260672&text=Hi%20Bro%20i%20love%20your%20bot*\n*            *\n*╚══■□💙Toxic Bot💙■□══╝*\n\n*▷Creator: Turbo ✝︎*"
 
     
     await message.client.sendMessage(
@@ -23,7 +23,7 @@ if (Config.WORKTYPE == 'private') {
 
         var r_text = new Array ();
     
-        r_text[1] = "*Gɪᴛ Lɪɴᴋs*\n           *\n🌟═ᴀʙᴜ-sᴇʀ ᴏᴡɴᴇʀ ᴀʙᴜ- »« ʀᴇᴀʟ ɴᴀᴍᴇ-Aʙᴜsᴇʀ═🌟*\n\n*🔅https://github.com/Ajx-Abu/Abu-bot*"
+        r_text[1] = "*Gɪᴛ Lɪɴᴋs*\n           *\n🌟═Toxic Bot ᴏᴡɴᴇʀ Turbo- »« ʀᴇᴀʟ ɴᴀᴍᴇ-Toxic turbo😜═🌟*\n\n*🔅git link coming soon*"
 
     
         await message.client.sendMessage(
@@ -39,7 +39,7 @@ if (Config.WORKTYPE == 'private') {
 
     var r_text = new Array ();
     
-    r_text[1] = "*╔══■□💙ᴀʙᴜ-sᴇʀ💙■□══╗*\n           \n*⚜═ᴀʙᴜ-sᴇʀ═⚜*\n\n*𝕆𝕨𝕟𝕖𝕣 Aʙᴜ- - https://api.whatsapp.com/send?phone=+917025994178&text=Please%20add%20Aᴀʙᴜsᴇʀ%20bot%20ɢʀᴏᴜᴘ%20💙*\n*            *\n*╚══■□💙ᴀʙᴜ-sᴇʀ💙■□══╝*\n\n*▷Cʀᴇᴀᴛᴇʀ: Aʙᴜ-Jᴀsɪʟ ✝︎*"
+    r_text[1] = "*╔══■□💙Toxic Bot💙■□══╗*\n           \n*⚜═Toxic Bot═⚜*\n\n*𝕆𝕨𝕟𝕖𝕣 Turbo- - https://api.whatsapp.com/send?phone=+916380260672&text=Hi%20Bro%20i%20love%20your%20bot*\n*            *\n*╚══■□💙Toxic Bot💙■□══╝*\n\n*▷Cʀᴇᴀᴛᴇʀ: Turbo ✝︎*"
 
     
     await message.client.sendMessage(
@@ -52,7 +52,7 @@ if (Config.WORKTYPE == 'private') {
 
         var r_text = new Array ();
     
-        r_text[1] = "*Gɪᴛ Lɪɴᴋs*\n           *\n🌟═ᴀʙᴜ-sᴇʀ ᴏᴡɴᴇʀ ᴀʙᴜ- »« ʀᴇᴀʟ ɴᴀᴍᴇ-ᴊᴀsɪʟ.ᴍᴜʜᴀᴍᴍᴇᴅ═🌟*\n\n*🔅https://github.com/Ajx-Abu/Abu-bot*"
+        r_text[1] = "*Gɪᴛ Lɪɴᴋs*\n           *\n🌟═Toxic Bot ᴏᴡɴᴇʀ Turbo- »« ʀᴇᴀʟ ɴᴀᴍᴇ-Toxic turbo😜═🌟*\n\n*🔅git link coming soon*"
 
     
         await message.client.sendMessage(
