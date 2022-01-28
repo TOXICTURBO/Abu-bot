@@ -7,24 +7,24 @@ const Lang = Language.getString('wallpaper');
 
 Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the bot"}, (async (message, match) => {
 
-    var skl = await axios.get("https://i.ibb.co/mcVjXBN/IMG-20220120-WA0089.jpg", { responseType: 'arraybuffer' })
+    var skl = await axios.get("https://i.postimg.cc/sXg5dsrt/toxic.jpg", { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*✌︎➪𝑨𝑩𝑼 𝑺𝑬𝑹 𝑩𝑶𝑻☜︎︎︎✌︎*
-ᴄʀᴇᴀᴛᴏʀ ɴᴜᴍʙᴇʀ: wa.me/917025994178
+    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*✌︎Toxic Bot☜✌︎*
+ᴄʀᴇᴀᴛᴏʀ ɴᴜᴍʙᴇʀ: wa.me/916380260672
 
-Tʜɪs ʙᴏᴛ Oᴡɴᴇʀ Nᴀᴍᴇ : ❤️🥰 ✌︎Aʙᴜ Sᴇʀ Bᴏᴛ ➪ Aʙᴜ»:-Jᴀsɪʟ ᴍᴜʜᴀᴍᴍᴇᴅ
+Tʜɪs ʙᴏᴛ Oᴡɴᴇʀ Nᴀᴍᴇ : ❤️🥰 ✌︎Toxic Bot ➪ Turbo
 
-Aʙᴜ ʙᴏᴛ ɢʀᴏᴜᴘ: https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk
+Aʙᴜ ʙᴏᴛ ɢʀᴏᴜᴘ: https://chat.whatsapp.com/EQiRSt1omhJ3EqilWhacvo
 
-Gɪᴛʜᴜʙ ʟɪɴᴋ:    https://github.com/Ajx-Abu/Abu-bot
+Gɪᴛʜᴜʙ ʟɪɴᴋ:    coming soon
 
-Aᴜᴅɪᴏ ᴄᴏᴍᴍᴀᴅᴇ :   https://github.com/Ajx-Abu/Abu-bot/tree/master/uploads
+Aᴜᴅɪᴏ ᴄᴏᴍᴍᴀᴅᴇ :   coming soon
 
-Sᴛɪᴄᴋᴇʀ ᴄᴏᴍᴍᴀᴅᴇ: https://github.com/Ajx-Abu/Abu-bot/tree/master/sticker
+Sᴛɪᴄᴋᴇʀ ᴄᴏᴍᴍᴀᴅᴇ: coming soon
 
-Cʜᴀɴɴᴇʟ : https://youtube.com/channel/UCvWLxIw5MQvbD7It9A5-3Ow 
+Cʜᴀɴɴᴇʟ : https://www.youtube.com/channel/UCl9aA2wbht33FrDaKfJKX1Q
 
-💝Aʙᴜ Sᴇʀ Bᴏᴛ Cʀᴇᴀᴛᴇᴅ Bʏ Aʙᴜ Sᴇʀ -Jᴀsɪʟ ᴍᴜʜᴀᴍᴍᴇᴅ💝
+💝Toxic Bᴏᴛ Cʀᴇᴀᴛᴇᴅ Bʏ Turbo💝
 `}) 
 
 }));
