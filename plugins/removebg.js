@@ -49,10 +49,10 @@ if (Config.WORKTYPE == 'private') {
     
         await pipeline(
 		    rbg,
-		    fs.createWriteStream('Abuser.jpg')
+		    fs.createWriteStream('toxic.jpg')
         );
     
-        await message.client.sendMessage(message.jid,fs.readFileSync('rbg.png'), MessageType.document, {filename: 'WhatsAsena.png', mimetype: Mimetype.png});
+        await message.client.sendMessage(message.jid,fs.readFileSync('toxic.png'), MessageType.document, {filename: 'WhatsAsena.png', mimetype: Mimetype.png});
         await load.delete();
     }));
 }
