@@ -25,6 +25,6 @@ Asena.addCommand({pattern: 'clear', fromMe: true, desc: END, dontAddCommandList:
 
     await message.sendMessage('```Abu Ser cleaning chat...```');
     await message.client.modifyChat (message.jid, ChatModification.delete);
-    await message.sendMessage('```🏳 Abu Ser Chat cleared 🏳```');
+    await message.sendMessage('```🏳 Toxic Bot Chat cleared 🏳```');
 }));
  
