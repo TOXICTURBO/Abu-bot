@@ -15,7 +15,7 @@
             "INSTALL_DESC": "Install external plugins.",
             "NEED_URL": "Please enter a URL! Example:",
             "INVALID_URL": "```Please enter a valid url!```",
-            "INVALID_PLUGIN": "*❌ Your plugin is invalid!*\n*Error:\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw*",
+            "INVALID_PLUGIN": "*❌ Your plugin is invalid!*\n*Error:\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCl9aA2wbht33FrDaKfJKX1Q*",
             "INSTALLED": "*✅ Plugin has been successfully installed!*",
             "PLUGIN_DESC": "Shows the plugins you have installed.",
             "INSTALLED_FROM_REMOTE": "*Plugins you install externally:*\n",
@@ -27,7 +27,7 @@
         },
         "admin": {
             "BAN_DESC": "Ban someone in the group. Reply to message or tag a person to use command.",
-            "IM_NOT_ADMIN": "*😥ᴀʙᴜ sᴀʀɪɴᴇ ɪᴠᴀʀ ᴀʀᴜᴍ ᴀᴅᴍɪɴ ᴀᴋɪᴛɪʟʟᴀ🤕ᴀᴅᴍɪɴ ᴋᴀᴛʜᴇ ᴘᴀᴛɪʟʟᴀ ᴠᴀᴠᴇ☹️*",
+            "IM_NOT_ADMIN": "*😥Toxic sᴀʀɪɴᴇ ɪᴠᴀʀ ᴀʀᴜᴍ ᴀᴅᴍɪɴ ᴀᴋɪᴛɪʟʟᴀ🤕ᴀᴅᴍɪɴ ᴋᴀᴛʜᴇ ᴘᴀᴛɪʟʟᴀ ᴠᴀᴠᴇ☹️*",
             "BANNED": "Mwonu Ok Bie!",
             "GIVE_ME_USER": "*arelum mention chey😈!*",
             "ADD_DESC": "Adds someone to the group.",
@@ -72,10 +72,10 @@
             "MUST_TEXT": "```Please reply to any message```"
         },
         "heroku": {
-            "RESTART_DESC": "Restart Aʙᴜ sᴇʀ",
+            "RESTART_DESC": "Restart Toxic Bot",
             "RESTART_MSG": "```Restarting...🧚‍♂️```",
-            "SHUTDOWN_DESC": "Shutdown Aʙᴜ sᴇʀ",
-            "SHUTDOWN_MSG": "```Shutting down 😴Aʙᴜ Sᴇʀ Uʀᴀɴɢᴀɴ Pᴏᴋᴀɴ 💥🥰```",
+            "SHUTDOWN_DESC": "Shutdown Toxic Bot",
+            "SHUTDOWN_MSG": "```Shutting down 😴Toxic Bot Uʀᴀɴɢᴀɴ Pᴏᴋᴀɴ 💥🥰```",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
             "DYNO_USED": "```Quota used```",
@@ -144,7 +144,7 @@
             "OCR_DESC": "Reads the text on the photo you have replied.",
             "NEED_REPLY": "*Reply to a photo!*",
             "DOWNLOADING": "```Media is downloading & reading...```",
-            "ERROR": "```I couldn't read this :/```\n*Error:*```{}```\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw```",
+            "ERROR": "```I couldn't read this :/```\n*Error:*```{}```\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCl9aA2wbht33FrDaKfJKX1Q```",
             "RESULT": "*Language:* ```{}```\n*Here is what I read:* ```{}```"
         },
         "profile": {
@@ -177,11 +177,11 @@
             "LANG": "Language",
             "FROM": "Translated Language",
             "RESULT": "Translate",
-            "TRANSLATE_ERROR": "❌ An error occured while translating!*\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw*",
+            "TRANSLATE_ERROR": "❌ An error occured while translating!*\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCl9aA2wbht33FrDaKfJKX1Q*",
             "CURRENCY_ERROR": "```Syntax error! Example: .currency 1 TRY USD```",
             "INVALID_CURRENCY": "```Foreign currency transaction failed. You wrote wrong currency!```",
             "UNKNOWN_ERROR": "```An error occurred. Foreign currency transaction failed!```",
-            "TTS_DESC": "It Aʙᴜ Converts text to sound.",
+            "TTS_DESC": "It Toxic Converts text to sound.",
             "TTS_ERROR": "```Error, Speech example of your sentence couldn't be made!```",
             "SONG_DESC": "Aʙᴜ Uploads the song you wrote.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song Naadan Vibe```",
@@ -189,7 +189,7 @@
             "DOWNLOADING_SONG": "\n*💙Mᴜᴛʜᴇ Wᴀɪᴛ Cʜᴀʏʏ Aʙᴜ Sᴇʀ Tʜᴀᴘᴘᴜᴋᴀʏᴀɴ 💝🧚‍♂️*\n",
             "UPLOADING_SONG": "\n*Aʙᴜ Uploading 📲 Hᴇᴅsᴇᴛ Vᴇᴄʜᴏ Nᴀʟʟᴀ Pᴏᴡᴇʀ Aʏɪʀɪᴋᴋᴜᴍ 🎧*\n",
             "VIDEO_DESC": "Downloads video from YouTube.",
-            "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
+            "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/channel/UCl9aA2wbht33FrDaKfJKX1Q```",
             "DOWNLOADING_VIDEO": "```Downloading 🎥...```",
             "UPLOADING_VIDEO": "```Uploading...```",
             "YT_DESC": "It searchs on YouTube.",
@@ -202,7 +202,7 @@
             "IMG": "```Uploading photo``` *{}* ```number``` *{}*"
         },
         "sticker": {
-            "STICKER_DESC": " Aʙᴜ Converts your replied photo or video to sticker.",
+            "STICKER_DESC": " Toxic Converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
             "DOWNLOADING": "```Ippam Seriyakithra 🤠```"
         },
@@ -216,14 +216,14 @@
         },
         "updater": {
             "UPDATER_DESC": "Cʜᴇᴄᴋs Tʜᴇ Uᴘᴅᴀᴛᴇ.",
-            "UPDATE": "*Aʙᴜ sᴇʀ ʙᴏᴛ Cᴏᴍᴘʟᴇᴛᴇʟʏ Uᴘ-Tᴏ-Dᴀᴛᴇ💝*",
-            "NEW_UPDATE": "*Aʙᴜ sᴇʀ Bᴏᴛ Uᴘᴅᴀᴛᴇ Aᴠᴀɪʟᴀʙʟᴇ *\n\n *Tʏᴘᴇ .update now before updating.🙂* \n *Asᴋ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ Aɴᴅ Uᴘᴅᴀᴛᴇ☺️* ```https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk \n\nChanges:\n```",
+            "UPDATE": "*Toxic Bot Cᴏᴍᴘʟᴇᴛᴇʟʏ Uᴘ-Tᴏ-Dᴀᴛᴇ💝*",
+            "NEW_UPDATE": "*Toxic Bᴏᴛ Uᴘᴅᴀᴛᴇ Aᴠᴀɪʟᴀʙʟᴇ *\n\n *Tʏᴘᴇ .update now before updating.🙂* \n *Asᴋ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ Aɴᴅ Uᴘᴅᴀᴛᴇ☺️* ```https://chat.whatsapp.com/EQiRSt1omhJ3EqilWhacvo \n\nChanges:\n```",
             "UPDATE_NOW_DESC": "Iᴛ Mᴀᴋᴇs Uᴘᴅᴀᴛᴇs.",
-            "UPDATING": "```Uᴘᴅᴀᴛɪɴɢ..🧚‍♂️```",
+            "UPDATING": "```Uᴘᴅᴀᴛɪɴɢ Toxic Bot..🧚‍♂️```",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
-            "UPDATED": "*Aʙᴜ Sᴇʀ Uᴘᴅᴀᴛᴇᴅ✅*",
-            "UPDATED_LOCAL": "*✅ Successfully Updated Aʙᴜ bot😍*",
-            "AFTER_UPDATE": "*Aʙᴜ bot Restarting😎*"
+            "UPDATED": "*Toxic Bot Uᴘᴅᴀᴛᴇᴅ✅*",
+            "UPDATED_LOCAL": "*✅ Successfully Updated Toxic Bot😍*",
+            "AFTER_UPDATE": "*Toxic bot Restarting😎*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
@@ -313,12 +313,12 @@
             "URL": "Shorten the long link."
         },
         "conventer": {
-            "MP4TOAUDİO_DESC": "Aʙᴜ Converts video to sound.",
+            "MP4TOAUDİO_DESC": "Toxic Bot Converts video to sound.",
             "MP4TOAUDİO_NEEDREPLY": "*You Must Reply to a Video!*",
-            "MP4TOAUDİO": "```Aʙᴜ converting Video to Audio..```",
-            "STİCKER_DESC": "Aʙᴜ Converts the sticker to a photo.",
+            "MP4TOAUDİO": "```Toxic Bot converting Video to Audio..```",
+            "STİCKER_DESC": "Toxic Bot Converts the sticker to a photo.",
             "STİCKER_NEEDREPLY": "*Photokk Reply ayitt ayakk*",
-            "STİCKER": "```Aʙᴜ converting...```",
+            "STİCKER": "```Toxic Bot converting...```",
             "XMEDİA_DESC": "It is a plugin with more than 25 media tools.",
             "T_FALSE": "```❌ Incorrect Blend Effect Entered!```\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
             "T_NOT": "```💭 You Need To Enter Any Blend Effects!\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
@@ -410,9 +410,9 @@
             "MUTE_OPEN": "*Allright Boss! Chat Has Been Opened!*"
         },
         "unvoice": {
-            "UV_DESC": "Aʙᴜ Converts audio to sound recording.",
+            "UV_DESC": "Toxic Bot Converts audio to sound recording.",
             "UV_REPLY": "*You Must Reply to an Audio File!*",
-            "UV_PROC": "```Aʙᴜ converting to Sound Recording..```"
+            "UV_PROC": "```Toxic Bot converting to Sound Recording..```"
         },
         "ffmpeg": {
             "FF_DESC": "Applies the desired ffmpeg filter to the video.\n⌨️ Example: .ffmpeg fade=in:0:30",
@@ -440,7 +440,7 @@
             "URL": "*You must enter the image URL!*\n*Example:* https://i.hizliresim.com/nrg50b.jpg"
         },
         "ttp": {
-            "TTP_DESC": "Aʙᴜ Converts text to plain painting.",
+            "TTP_DESC": "Toxic Bot Converts text to plain painting.",
             "ATTP_DESC": "Adds rainbow effect to the text as a sticker.",
             "NEED_WORD": "*You must enter words!*",
             "ANIME_DESC": "It writes the text inside the banner the anime girl is holding",
