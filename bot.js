@@ -104,7 +104,7 @@ async function whatsAsena () {
          console.log(
             chalk.red.bold('make sure you have typed the correct password'));
          throw new Error("Password Error ⚠⚠ ");         
-         return; //created by afnanplk
+         return; //created by Turbo
          }
 
         console.log(
@@ -134,7 +134,7 @@ async function whatsAsena () {
         });
 
         console.log(
-            chalk.green.bold('✅ Abu bot working!')
+            chalk.green.bold('✅ Toxic bot working!')
         );
         await new Promise(r => setTimeout(r, 1100));
 
@@ -159,7 +159,7 @@ async function whatsAsena () {
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*ᴀʙᴜ ʙᴏᴛ sᴛᴀʀᴛᴇᴅ*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*Toxic Bot sᴛᴀʀᴛᴇᴅ*', MessageType.text);
                 }
             }
             else {
@@ -230,7 +230,7 @@ async function whatsAsena () {
                 }
                 else {
 
-                    await conn.sendMessage(conn.user.jid, '*ᴀʙᴜ ʙᴏᴛ sᴛᴀʀᴛᴇᴅ*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*Toxic Bot sᴛᴀʀᴛᴇᴅ*', MessageType.text);
                 }
             }
         }
@@ -378,8 +378,8 @@ async function whatsAsena () {
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ * 𝑨𝑩𝑼 𝑺𝑬𝑹 𝑩𝑶𝑻!* ~______~*' +
-                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```*Report errors\njoin with +91 \n https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk ' 
+                                await conn.sendMessage(conn.user.jid, '*~_________~ * Toxic Bot!* ~______~*' +
+                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```*Report errors\njoin with +91 \n https://chat.whatsapp.com/EQiRSt1omhJ3EqilWhacvo ' 
                                     , MessageType.text);
                             }
                         }
